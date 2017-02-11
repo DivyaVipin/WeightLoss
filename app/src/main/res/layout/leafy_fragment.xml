@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Leafy Green"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/leafyweightloss"
+            android:scaleType="center"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/salmon"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:text="Leafy greens are often overlooked as a valuable addition to any balanced diet, and particularly for people who are attempting to reduce their weight. Leafy greens are versatile, nutritious and come in a wide variety. Some different kinds of greens that are usually cooked include Swiss chard (also known as silver beet), spinach, kale, cress, cabbage and pak choi. Other kinds are eaten raw in salads or sandwiches, such as lettuce.
+Leafy Greens Are Nutritious
+Dark, leafy greens are an excellent source of iron, particularly for vegetarians. When people exercise they often use up more iron than they expect, and coupled with reduced intake of red meat, this can lead to a deficiency. Low iron levels can leave you feeling tired, listless and weak, which is not ideal for an exercise plan. Leafy vegetables provide iron with very few calories or carbohydrates, so they can be included in almost any eating plan without harm.
+Leafy greens also provide calcium, which is important not only for healthy bones and teeth, but also for muscle function, which are all necessary for a regular weight loss exercise routine. Calcium has also been studied as a weight loss aid, particularly in milk, and also by itself as a supplement, so getting more calcium from other sources can only do good. Other nutrients in leafy greens include vitamin C, folic acid, vitamin K and B vitamins, which are present in varying amounts depending on the leaf type. Maintaining good levels of these vitamins is essential to health and energy levels. Deficiencies in vitamins can lead to an increased appetite, as the body seeks to replace what it needs.
+Leafy Greens Are High in Fiber
+Leafy greens are very high in fiber, which can help you feel fuller for longer, as well as promoting a healthy and regular digestive system. They are very low in calories and carbohydrates, and can be eaten in large amounts during almost any kind of diet, helping to fill the stomach with nutritious food. Leafy greens also have a low glycemic index, meaning that they hardly effect blood sugar levels and can even help lower the effects of other foods when they are eaten together. This effect allows you to stave off hunger pangs as well as preventing the future development of diabetes, improving the chances of maintaining a lower calorie diet and losing more weight.
+Leafy greens have many benefits and few costs to the dieter. In fact, in many eating plans they are considered a “free” food, and people are encouraged to eat them in any amount. Iceberg lettuce is one of the least nutritious leafy vegetables, and the one most often consumed in salads, rather than other choices such as mesclun leaves, cress or rocket. Attempt to eat a wide variety of leafy greens in order to obtain the full weight loss benefits of this nutritious type of vegetable"
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

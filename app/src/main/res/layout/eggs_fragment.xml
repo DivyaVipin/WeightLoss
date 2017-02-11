@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Eggs"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/eggweightloss"
+            android:scaleType="center"
+            android:layout_marginLeft="10dp"
+
+            android:id="@+id/eggs"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:text="Going to work on a couple of eggs might be the way forward if you want to shift those pounds. According to new research from the Rochester Centre for Obesity in America, eating eggs for breakfast could help to limit your calorie intake throughout the rest of the day, by more than 400 calories.
+In the study, 30 overweight or obese women ate either an egg-based breakfast (2 eggs) or a bagel-based breakfast, containing the same amount of calories and almost identical levels of protein. The researchers recorded the women’s eating habits and found that just before lunch, the women who had eaten eggs for breakfast felt less hungry and ate a smaller lunch as a result. Better still, over the next 36 hours the group eating the egg-containing breakfast consumed, on average, 417 calories less than the bagel-eating group.
+Weight Loss Resources says…
+This study suggests that eating eggs for breakfast makes you feel fuller for longer so that you eat less at your next few meals. This is great news if you’re trying to lose weight as it means you may find it easier to cut calories without feeling hungry. In fact, based on these results you could expect to lose up to 2lb a month, simply by eating eggs for breakfast!
+Eggs are packed with a variety of nutrients including protein, zinc, iron and vitamins A, D, E and B12, but contain just 85 calories each. Old advice to limit eggs to just a few each week has also been abandoned. According to the Food Standards Agency, there’s now no limit to the number of eggs you can eat in a week as part of a healthy balanced diet. If you fancy starting the day with eggs we suggest you avoid frying them and combine them with wholemeal toast and a glass of vitamin C-rich unsweetened orange juice, which will help the body make the best use of the iron in the eggs.
+Use the tools in Weight Loss Resources free
+Weight Loss Resources provides tools and information to control your weight by getting your calorie balance right and learning what works best for you. You can access the calorie database and keep an online food diary. Try it Free for 24 hours."
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

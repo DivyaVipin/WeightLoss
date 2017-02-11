@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Potato"
+
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/boiledpotatoesweightloss"
+            android:scaleType="center"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/potato"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:text="Depending on who you ask, potatoes are either good for your diet or a weight-loss saboteur. While it's true that potatoes ride the fence when you're trying to lose weight, preparation may be the culprit. Consult your doctor to discuss how potatoes fit into your weight-loss plan.
+Nutrients in Potatoes
+Plain potatoes, whether white or sweet, are fat-free, rich in nutrients, and low in calories; they make a good addition to any weight-loss diet. A 3.3-ounce baked white potato, which is about a 1/2-cup serving, has 94 calories, 21 grams of carbs, 2 grams of protein and 2 grams of fiber. It's also a good source of vitamin C, potassium, folate and vitamin B-6, meeting more than 10 percent of the daily value per serving.
+
+Unfortunately, most Americans don't eat potatoes plain, but gobble them in chip form or as a french fry, according to the U.S. Department of Agriculture. These fried versions of the potato are a more concentrated source of calories and higher in fat and may not make the healthiest choice for your weight-loss diet. A 1 ounce serving of potato chips, which is about 10 to 15 chips, has 149 calories, 10 grams of fat, 15 grams of carbs and 2 grams of protein. A serving of 10 french fries has 123 calories, 20 grams of carbs, 2 grams of protein and almost 2 grams of fiber. Neither the chip nor the fry are as good of a source of any vitamin or mineral as the plain potato.
+
+The same serving of a baked sweet potato has 90 calories, 21 grams of carbs, 2 grams of protein and 3 grams of fiber. The baked sweet potato is not only a better source of fiber than the white potato, but it's also a better source of vitamins A, C and B-6, as well as potassium.
+Potatoes and Weight Loss
+While the NEJM prospective study found a correlation between potatoes and weight, if you're limiting your overall calorie intake to lose the weight, eating a potato won't hinder your progress. A 2014 study published in the Journal of the American College of Nutrition compared weight loss on a group of people following a reduced-calorie diet with or without potatoes and found that the potato did not cause weight gain.
+
+A plain potato, when part of a healthy, weight-loss diet, offers a number of benefits to those trying to lose weight. The European Food Information Council says that a plain boiled potato is a very satiating vegetable, which means it helps keep you feeling full for an extended period of time, an important attribute of any food when you're trying to eat less.
+
+Even though the plain potato makes a healthy addition to your diet, if you eat more calories than your body needs, you'll gain weight. When trying to lose weight on your reduced-calorie diet, you need to take all foods consumed into consideration when tracking your calorie intake."
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

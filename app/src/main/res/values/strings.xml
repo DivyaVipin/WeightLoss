@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="chia">Chia Seeds</string>
+    <string name="how_many">How many calories I need a day?</string>
+
+    <string name="Gender">Gender:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="Clear">Clear</string>
+    <string name="e_weight">Weight(kg)</string>
+
+    <string name="e_height">Height(cm)</string>
+    <string name="Age">Age:</string>
+    <string name="enter_age">Enter Age</string>
+
+    <string name="Result">Result:</string>
+    <string name="Calculate">Calculate</string>
+    <string name="gm_diet">The Vegetarian diet plan for weight loss is not just to lose weight, but it is also a maintenance method for a slim and proportionate body. Along with these, it will help you practice eating vegetables and fruits which will help to boost up the metabolic rate. Vegetarian diets and weight loss go hand it hand. It is the healthiest and the fastest way to shed pounds. This vegetarian diet program has become famous around the world. Every one is addicted to it, it actually works!
+Advantages Of GM Diet Plan:
+This 7 day vegetarian diet plan was developed for the well being of General Motors Inc. employees. That is the reason it is called the GM Diet Plan. The aim of the program is to gain a healthy body. You can expect the following things by practicing this Diet Plan regime:
+\n1.	Lose around 5 to 8 kilograms in 7 days
+\n2.	Natural glow to skin
+\n3.	Elimination of toxins will make you feel light and energetic
+\n4.	Reduces the flab around the tummy and waist
+\nAll these in just 7 days! It is a miracle diet plan! At the beginning it may sounds a bit impossible to follow it, but just 7 days of dedication will bring you a healthy body. If you successfully complete these 7 days, you will definitely love the results. You would never want to break the diet regime, because you know the worth of it. Just to make sure that you are healthy enough to practice this diet, consult your doctor before you begin.
+</string>
+    <string name="First">Being the first day, it is always the hardest. Try to keep yourself away from all kinds of cravings as you will be consuming only fruits. You can consume all the fruits, excluding grapes, bananas, litchi and mangoes. You can have them in any quantity you like. It is suggested that you consume more watermelon, lime, oranges, apples, pomegranates, strawberries and melons. You can eat 20 times a day, but you should eat only fruits.This is the way of preparing your body for the upcoming days. The only source of nutrition is from the fruits, they provide you will all that you need for your body. If you prefer to cut them up and eat, its great but make sure you aren’t adding anything else to it. Its just a ‘pure fruit for me’ day! If you can limit your fruit intake to only melons, your have a good chance of losing 3 pounds on your first day.</string>
+    <string name="Second">Like the first day, the second day is ‘All veggies day’. You can eat nothing but vegetables and only vegetables. You can eat to your heart’s content, feel your stomach filled up with vegetables if you need to. Boiled or raw vegetables will do. You can even begin your day with a boiled potato and a tea spoon of butter. This is done in order to give the body enough energy and carbohydrates for the day. But after that only raw and boiled vegetables.Only one potato this day is enough, don’t consume more than that. Adding a pinch of oregano or basil seasoning to make the vegetables more edible is perfect. Day 2 is a calorie free day with a good amount of fibre and nutrients. If you make it through day two, you are definitely dedicated!</string>
+
+    <string name="Third">Day 3 is a combination of day 1 and 2. You can eat the mentioned fruits and vegetables. Eat any quantity and any amount you like and drink lots of water as directed. You need to avoid potatoes on day 3 as you are getting enough carbohydrates supply from the fruits. Your system is all set to burn the excess pounds. Your cravings may try to dominate, but think about the weight loss and the great results. You will feel light and happy by this time.</string>
+    <string name="Fourth">Everything has its perfect time, if you believe in this saying then your right. Remember how you were told not to eat bananas on the first three days? Well on the 4th day of the vegetarian diet for losing weight, you have the liberty to eat up to 6 bananas for the whole day. You can drink up to 4 glasses of milk. You must have heard that bananas help in weight gain, however in this diet, they act as a source of potassium and sodium for the body. Since the intake of salt is reduced, bananas will do the job.</string>
+    <string name="Fifth">Day 5 is a festival day for you, as you can have a tasty meal. You can munch on tomatoes, sprouts and cottage cheese, also known as paneer in India. You can also add soya chunks to you meal. Make a tasty soup with the mentioned ingredients and drink it. Make sure to increase your water intake on day 5.You can eat up to 6 tomatoes and increase the water intake with 1/4 of the daily consumption. This is done in order to cleanse your body from uric acid. The tomatoes are for the fibre and digestion process. The water will purify your body from all kinds of toxins.</string>
+
+    <string name="Sixth">Day 6 is a little different to day 5. You will be eating sprouts, cottage cheese and other vegetables but by excluding tomatoes. No tomatoes on day 6, avoid them.  The tasty soup and lots of water should help you through your day. Vegetables will provide vitamins and fibre to your body. You will already notice change in your body by this time. Continue consuming a good amount of water everyday.</string>
+    <string name="Seventh">The last and final day of the diet plan. This is the most important day. You will be feeling light on your toes and happy inside out. You can have fresh fruit juice, one cup of brown rice or half chapathi and other vegetables you would want to eat. You can complete your day with the consumption of water.</string>
+    <string name="chilli">
+    </string>
+    <string name="cruciferous"></string>
+    <string name="Chicken">
+
+</string>
+    <string name="chiaseeds">.</string>
+    <string name="potato">
+Potato Preparation for Weight Loss
+You can enjoy potatoes on your weight-loss diet other than just eating them plain. Saute a cubed sweet potato with onions and a touch of olive oil and serve with a poached egg at breakfast. Top a baked white potato with steamed broccoli and a sprinkling of low-fat cheese for a filling lunch or toss quartered red potatoes in olive oil and roast in the oven for a delicious side at dinner. You can also cut either the white or sweet potato into strips and bake them in the oven for a healthier french fry.
+</string>
+    <string name="beans">
+</string>
+    <string name="eggs"></string>
+    <string name="salmon">.</string>
+    <string name="tuna"></string>
+<string name="leafy">.</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="gender_array">
+                <item>Male</item>
+                <item>Female</item>
+               
+            </string-array>
+    <string-array name="activities_array">
+                <item>Swimming</item>
+                <item>Walking</item>
+               <item>Running</item>
+                <item>Aerobic Excercise</item>
+            </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Chilli Pepper"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/chillipepperweightloss"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/chilli"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:text="Could spicing up your food help you lose weight? A string of recent studies by researchers at Canada's Laval University suggest that a key chemical contained in chillies could boost your body's ability to burn fat and curb your appetite into the bargain.
+
+So how does it work? It's no secret that eating hot foods such as curries and Mexican chillies makes us feel warm. Really hot versions can even make us sweat and go red in the face.
+This is because capsaicin, the chemical that gives chillies and chilli-based spices such as cayenne and paprika their characteristic pungency, stimulates a natural process whereby some of the food we eat at each meal is converted immediately to heat.
+Called diet-induced thermogenesis, this process is good news for dieters because it means we burn up calories automatically rather than storing them.
+Scientists have found that diet-induced thermogenesis usually uses up carbohydrates, with various studies showing that we produce more heat after a high-carbohydrate meal - say pasta or rice - than after a meal of fatty food.
+What this means is that if we were to eat two meals with the same calorie count, one high in carbohydrates, the other high in fat, our bodies would automatically burn up more of the calories in the high carbohydrate meal than they would in the fat-heavy meal.
+But now the Canadian researchers have discovered that spicing up a fatty meal with chilli powder significantly increases levels of diet-induced thermogenesis. What's more, they've found that it boosts the amount of fat, rather than carbohydrate, that is burned in the process.
+And the potential benefits don't end there.
+They've also found that chilli can actually help reduce your appetite.
+Their studies, reported in the British Journal of Nutrition, have revealed that when men and women eat chilli-spiked food, they feel less hungry and eat significantly less at subsequent meals.
+Intriguingly, the researchers have also found that adding chilli powder to food tricks people into thinking that the meal contains more fat than it actually does.
+This is important because we're programmed to enjoy fats and oils, which is why we find it so hard to stick to a low-fat diet.
+Scientists have also found that for obese or previously obese people, this preference is even more pronounced, making passing up fat-laden food even harder.
+The Canadian researchers suggest that adding chilli to a low-fat meal might be one way to help satisfy our craving for oils.
+They also point out that it's in dieters' best interests to make their meals as delicious as possible, because the more we enjoy our food, the higher the level of thermogenesis.
+But before you start adding chilli to your favourite fat-heavy foods, Dr Wendy Doyle of the British Dietetic Association sounds a note of caution.
+'This research is very interesting, but for effective weight loss, one has to take a lot of other factors into consideration.
+'There's no point eating a lot of chilli if you're also eating a high-fat diet and not getting any exercise, because you still won't lose weight.'
+She says while chillies might help burn some of the excess calories from a high-fat diet, nutritionally, a lower fat, higher carbohydrate diet is still the best option, regardless of what our tastebuds tell us.
+'With this kind of diet, rather than a high-fat diet, you're much more likely to be getting all the different micronutrients your body needs.'
+So the message is that while chilli might help boost our metabolisms, it's still not the magic bullet desperate dieters would love to discover.
+And as obesity expert Dr Abdul Dulloo, from the University of Fribourg, Switzerland, points out, chilli is just one of a number of common foodstuffs that can boost thermogenesis.
+Ginger is one, so is mustard, and green tea, coconut oil, coffee and cola have all been found to boost the process.
+'It makes one wonder about the extent to which they could already be helping many of us to put our excess dietary fat into the fire.'"
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

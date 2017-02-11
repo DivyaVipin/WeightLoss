@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BMI Calculator"
+        android:layout_marginLeft="10dp"
+        android:textSize="25dp"
+        android:textColor="@color/colorBlack"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <!-- Textview for WEIGHT(KG) text -->
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:id="@+id/tvWeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weight: "
+            android:textColor="@color/colorBlack"
+            android:layout_marginTop="10dp"
+            />
+
+        <!-- Edit text for entering weight with hint in kgs -->
+        <EditText
+            android:id="@+id/etWeight"
+            android:layout_width="150dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:hint="IN KG"
+            android:layout_marginLeft="70dp"
+            android:textColorHint="@color/colorWhite"
+            android:inputType="numberDecimal"
+            android:textAlignment="center" >
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:layout_marginTop="10dp">
+       <TextView
+           android:id="@+id/tvHeight"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="10dp"
+           android:text="Height: "
+           android:textColor="@color/colorBlack"
+           />
+
+       <!-- Edit text for entering height with hint in cm -->
+       <EditText
+           android:id="@+id/etHeight"
+           android:layout_width="150dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="70dp"
+           android:hint="IN CM"
+           android:textAlignment="center"
+           android:textColorHint="@color/colorWhite"
+           android:background="@color/colorAccent"
+            >
+       </EditText>
+   </LinearLayout>
+    <!-- Text view for HEIGHT(CM)text -->
+
+
+    <!-- Button for calculating the formula, when pressed, with calculate written over it -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/btnCalculate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorWhite"
+            android:longClickable="true"
+            android:layout_marginLeft="100dp"
+            android:text="Calculate"
+            android:visibility="visible" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/colorWhite"
+            android:background="@color/colorAccent"
+            android:layout_marginTop="20dp"
+            android:id="@+id/btnClear"
+            />
+    </LinearLayout>
+
+    <!-- Text view for showing result -->
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="20dp"
+        android:text=""
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/calorieicon"/>
+
+
+</LinearLayout>

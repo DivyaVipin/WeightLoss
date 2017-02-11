@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Cruciferous Vegetables"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/cruciferousweightloss"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/cruci"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:text="Cruciferous vegetables are a unique group of vegetables that contain particular phytonutrients that promote good health. The group consists of vegetables like broccoli, cauliflower, cabbage, Brussels sprouts, mustard greens, bok choy, radishes and arugula, just to name a few. Cruciferous vegetables are one of the best types of food you can eat when you are trying to lose fat.
+Low Calorie
+Cruciferous vegetables contain few calories. Reducing the number of calories you eat is crucial when you are trying to lose fat. If you eat more calories than your body needs, you will gain fat no matter where the calories come from. One cup of chopped broccoli, for example, only contains 41 calories. You could eat 10 cups of chopped broccoli and only consume 410 calories -- less than 25 percent of your daily caloric needs based on a 2,000-calorie diet.
+High Fiber
+Cruciferous vegetables are high in fiber. This is good for fat loss because high-fiber foods fill you up quicker and leave you feeling full for longer amounts of time. They also improve your digestion and aid in the process of removing waste from your body. High-fiber foods have a lower glycemic index, which means they don/'t cause spikes in your blood sugar that lead to the release of insulin -- the chemical in your body that converts calories to fat."
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

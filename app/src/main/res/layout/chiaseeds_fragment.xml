@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:text="Chia Seeds"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/chia"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/eggs"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:textColor="@color/colorBlack"
+            android:text="Chia seeds have been popular in health food circles for years, for good reason -- they are relatively affordable, highly nutritious and have a mild flavor that works in many dishes. And while chia seeds are moderately high in calories, thanks to their healthy omega-3 fatty acids, their fiber content makes them a welcome addition to weight-loss diets. Experiment in the kitchen to add chia to weight loss-friendly breakfasts and snacks to help you shed pounds.
+
+        When you are adding chia to your diet, make sure you only use seeds that have already been hydrated in fluid -- eating the dry seeds on their own poses a choking hazard.
+
+        No single food, even a nutrient-dense one like chia, can make or break your weight loss on its own. To lose weight the healthy way, you'll need to follow a balanced diet that provides fewer calories than you burn each day -- that way, your body taps into your fat stores as a source of energy. The number of calories you'll need daily depends on several factors, including your height, weight, body composition, activity level, age and gender, and it can take some trial and error to figure out how many calories you burn each day. But cutting your calorie intake by 500 calories a day will help you lose an average of one pound a week, which is a safe rate for weight loss.
+
+        A 1-ounce serving of chia seeds provides 138 calories. That's roughly 9 percent of the daily calorie limit for a 1,500-calorie diet, or 7 percent of a 2,000-calorie diet. That's a significant chunk of your daily calorie intake, but you'll also get a lot of nutritional value for your calorie investment, so chia is a worthwhile addition to your weight loss diet.
+        High-Fiber Chia and Weight Loss
+        Chia seeds come packed with dietary fiber -- roughly 10 grams per ounce of seeds. That contributes a significant amount toward your daily fiber intake goals, which can range from 21 to 38 grams daily, depending on your gender and age. Simply eating more fiber is a great way to lose weight even if you don't make other dietary changes, reports Harvard Medical School, and chia significantly boosts your fiber intake.
+
+        There's conflicting evidence on whether or not chia can directly cause weight loss. A study published in Nutrición Hospitalaria in 2014 looked at the effect of eating chia flour -- ground chia -- each day for 12 weeks. The authors found that the study subjects who ate chia each day experienced slightly more weight loss than those who didn't, and also had a small reduction in their waist size, which suggests that chia helped burn belly fat. However, an earlier study, published in Nutrition Research in 2009, found that chia didn't offer any weight loss benefits. So while chia has nutrients that promote weight loss, you shouldn't count on it as a magic bullet to shed fat"/>
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

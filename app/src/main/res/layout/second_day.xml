@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <TextView
+        android:textColor="@color/colorBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Day 2"
+        android:layout_marginLeft="10dp"/>
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:src="@drawable/daytwo"
+        android:layout_marginTop="15dp"
+        android:scaleType="centerCrop"/>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/Second"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorBlack"
+        />
+
+
+
+
+</LinearLayout>

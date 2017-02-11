@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Salmon"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/salmonweightloss"
+            android:scaleType="center"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/salmon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+
+            android:textColor="@color/colorBlack"
+            android:text="Salmon surely deserves a place on your weight loss menu. It won’t help you in losing weight unless it’s just one part of a decreased calorie diet and regular exercise, but salmon does have some qualities that can help you lose extra pounds. Its nutrient-dense calories are easy to work with your daily goals, and it’s stuffed with protein. The added advantage of salmon is omega-3 fatty acids that may help in losing weight.
+Dense Nutrition with Reasonable Calories
+The test of cutting calories over discipline and above fending off hunger comes from getting all the necessary nutrients while reducing caloric consumption. This is where salmon works great as part of a weight-loss plan. You can enjoy a 3-ounce serving of coho or sockeye salmon for only 118 and 144 calories, respectively. Most of the foods do not contain vitamin D, and both types of salmon are rich sources of vitamin D.
+Fish Oil
+The benefits of fish oil obtained from eating salmon may increase your weight loss. In a study, the young, fat men who ate fish or consumed fish oil supplements dropped 2 more pounds over 4 weeks than participants who did not consume fish. Fish oil and exercise decrease body fat, but when omega-3 fatty acids are used with exercise, you may lose more weight as compared to exercise alone. Sockeye and coho salmon each has about 1 gram of omega-3 fatty acids in a 3-ounce serving.
+Rich Source of Lean Protein
+Protein can make you seem filled for long which can help in losing weight. It also does not fasten blood sugar, which is surely followed by a fall in blood sugar that prompts hunger. A three ounce serving of sockeye or coho salmon provides about 40 percent of the daily value for protein, based on a consumption of 2,000 calories daily. Coho and sockeye are considered as lean protein as they only have 4 grams and 6 grams of total fat, individually.
+Keep It Safe
+Fresh salmon should be consumed as it is low in mercury. But farmed salmon has a greater chance of being contaminated with polychlorinated biphenyls, which may produce developmental problems in kids, cancer, and damage liver. To avoid the consumption of PCBs: Throw out all organs, exclude all skin, slice away the dark fat with the backbone and cut all the belly fat along the base of the salmon. Bake or broil the fish on a rack or grill to eliminate drippings"/>
+    </LinearLayout>
+
+</ScrollView>

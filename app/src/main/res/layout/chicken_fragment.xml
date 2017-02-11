@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Chicken"
+
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/chickenweightloss"
+            android:scaleType="center"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/chicken"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:textColor="@color/colorBlack"
+            android:text="Losing weight not only requires exercise and a reduction of calorie intake, but a person should also make healthy food choices. The United States Department of Agriculture recommends eating foods from each section of the food pyramid, which consists of grains, fruits, vegetables, milk, oils and the meat and bean group. To lose weight, a person should focus on choosing the best options within the food groups. Chicken is one healthy option in the meat and bean group, but a person must know how to eat chicken to lose weight and eat a healthful diet.
+\nStep 1:
+Choose boneless, skinless chicken breasts for the leanest option. A dieter can buy the breasts boneless or without skin, or he can purchase the breasts with skin and bones, then cut away before cooking. Even if he purchases the boneless, skinless breasts, he should make sure to cut off any fat or remaining skin.
+\nStep 2:
+Cook the chicken wisely. Broiling, grilling or baking chicken offers good nutrition and flavor, according to the World/'s Healthiest Foods. The dieter may choose to marinate the chicken before cooking, which will add to flavor. If purchasing a marinade, he should read the label carefully to watch for sugars, fats and sodium, which may affect weight loss.
+\nStep 3:
+Balance the healthy chicken with fruits, vegetables and whole grains. For proper nutrition, especially when dieting, a person should consume healthy foods from each of the food groups each day. Eating grilled chicken breast with steamed vegetables and brown rice offers a meal choice that will help a person reach his weight-loss goals.
+Warnings
+⦁	Dieters should vary protein intake to ensure they are receiving proper nourishment.
+"
+            />
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

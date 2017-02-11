@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:text="Tuna"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/tunaweightloss"
+            android:scaleType="center"
+            android:id="@+id/tuna"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:text="Tuna boasts a reputation as a health food, and for good reason; it's loaded with essential nutrients that boost your overall health and well-being. It's also good for weight loss, thanks to its high protein content and relatively low calorie count. Serve your tuna with low-cal and low-fat mix-ins to promote weight loss, and choose low-mercury varieties of tuna as your healthiest option.
+
+Always consult a medical professional before starting a new diet, and see a nutritionist or registered dietitian for help planning your diet regimen.
+Calories in Tuna Can Fit Your Diet
+As long as you choose the right kind, tuna is a moderate source of calories, which makes it appropriate to include in a weight loss diet. Your best bets are tuna steak, or tuna canned in water. A 3-ounce portion of tuna steak, cooked over dry heat, is 112 calories, while a half-filet is 203 calories. And 3 ounces of light tuna, packed in water, is just 72 calories -- or 142 calories per can.
+
+Tuna canned in oil is a higher-calorie option. While some types of tuna are packed in heart-healthy oils, like olive oil, they can be harder to fit into a calorie-controlled diet due to this higher calorie content. A 3-ounce serving of tuna canned in oil is 168 calories, and a can will set you back 339 calories.
+
+If you're currently eating a can of tuna canned in oil twice per week, switching to tuna canned in water will help you lose more than 5 pounds in a year, even without making other diet changes (339 - 142 -- 197 cals saved x 2 x 52 weeks -- 20,488 cals saved, divide by 3,500 to get 5.85 lbs).
+
+Tuna is a great weight loss food thanks to its high protein content. In addition to providing amino acids that your body can use to build muscle tissue -- a process that boosts your metabolism -- protein helps with weight loss because of its high thermic effect. Protein is hard to digest, and its high thermic effect means that your body burns more calories in breaking down protein than it does breaking down carbohydrates and fats, so eating more protein-packed foods boosts your overall calorie burn. A study published in the American Journal of Clinical Nutrition found that people who boosted their protein intake from 15 to 30 percent of their daily calorie intake felt more satisfied and full and dropped weight and body fat.
+
+Eating 3 ounces of tuna steak boosts your protein intake by 24 grams, while 3 ounces of tuna canned in water offers 17 grams of protein. That's a significant amount toward your daily protein needs -- 56 and 46 grams for men and women, respectively."
+            android:textSize="15sp"
+
+            android:textColor="@color/colorBlack"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

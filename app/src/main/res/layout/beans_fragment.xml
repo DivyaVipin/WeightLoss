@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:textSize="30dp"
+            android:text="Beans and Legumes"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorBlack"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/beanslegumesweightloss"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/beans"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:textColor="@color/colorBlack"
+            android:text="Beans are chock full of nutrients, including protein, fiber, slow-burning carbs, antioxidants, vitamins, and minerals. And now I have one more reason to be a bean enthusiast.
+A brand new study published in Archives of Internal Medicine concluded that eating more legumes (such as beans, chickpeas, and lentils) improved blood sugar control and slashed heart disease risk for patients with type 2 diabetes.
+In the study, adults who followed a low-glycemic index diet that included at least a cup of legumes daily for a month exhibited better blood sugar and insulin regulation and a greater reduction in blood pressure than those whose diet was supplemented with whole-wheat products.
+But bean benefits don't stop there. Legumes are a powerful weight-loss super food. One study found that regular bean eaters have smaller waistlines and a 22 percent lower risk of obesity. In part this may be because they’re a top source of fiber. One cup of black beans and lentils each packs a whopping 15 grams, 60 percent of the recommended daily minimum. Research has shown that for every gram of fiber we eat, we eliminate about seven calories. And a study of Brazilian dieters found that over a six-month period, each additional gram of fiber consumed resulted in an extra quarter pound of weight loss.
+Legumes are pretty hot in culinary circles these days, and you can enjoy them in many ways, including both sweet and savory dishes. Most people think of eating beans and lentils in soups or dishes seasoned with garlic and herbs, but there are lots of healthy ways to enjoy beans in desserts too. I use garbanzo and fava bean flour in cookies, add pureed beans and lentils to brownies and cupcakes, and around the globe, beans have long been staples in treats like Vietnamese bean pudding and Japanese adzuki bean ice cream."
+            />
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
